@@ -11,7 +11,7 @@ function Sidebar() {
         <div className="sidebar-brand-icon rotate-n-15">
             <i className="fas fa-laugh-wink"></i>
         </div>
-        <div className="sidebar-brand-text mx-3">OIP Crud-1 </div>
+        <div className="sidebar-brand-text mx-3">OIP FullStack Deployment </div>
     </a>
 
     {/* <!-- Divider --> */}
