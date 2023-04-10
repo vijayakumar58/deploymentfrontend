@@ -1,3 +1,3 @@
 export const env = {
-    api : "https://deploymentbackend-8f7k.onrender.com"
+    api : "https://deploymentbackend-4sp5.onrender.com"
 }
