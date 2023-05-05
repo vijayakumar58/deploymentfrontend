@@ -88,7 +88,7 @@ function Createuser() {
                                     <div className="form-group row">
                                         <div className="col-sm-6 mb-3 mb-sm-0">
                                             <lable style={{ color: "black" }}>Start Date</lable>
-                                            <input type="text" className="form-control form-control-user" id={`${formik.errors.startdate ? `input-error` :``}`}
+                                            <input type="date" className="form-control form-control-user" id={`${formik.errors.startdate ? `input-error` :``}`}
                                                 placeholder="Start Date" value={formik.values.startdate} onChange={formik.handleChange} name="startdate" />
                                             <span style={{ color: "red" }}>{formik.errors.startdate}</span>
                                         </div>
